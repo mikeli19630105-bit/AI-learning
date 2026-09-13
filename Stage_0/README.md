@@ -55,7 +55,7 @@
 | 03 | 线性代数与矩阵运算 | ⏳ 待开始 | — |
 | 04 | 微积分与梯度 | ⏳ 待开始 | — |
 | 05 | 概率论与贝叶斯 | ⏳ 待开始 | — |
-| 06 | 面向对象与装饰器 | ⏳ 待开始 | — |
+| 06 | 面向对象与装饰器 | 🟡 进行中 | [02-python-oop](./02-python-oop/) |
 | 07 | LeetCode 50 题 | ⏳ 待开始 | — |
 | 08 | 综合项目：多元线性回归 | ⏳ 待开始 | — |
 
@@ -66,12 +66,14 @@
 | 日期 | 内容 | 产出 |
 |------|------|------|
 | 2026-08-12 | 仓库初始化，Git/GitHub 工具链配置 | `README.md` |
-| 2026-08-13 | Python 列表、循环、距离计算 | `drink_similarity.py` |
-| 2026-08-14 | 欧几里得距离、字典遍历 | `distance.py`、`recommendation.py` |
-| 2026-08-15 | 奶茶推荐系统 v1.0 | `recommend_system.py` |
-| 2026-08-16 | 抛硬币模拟：大数定律 | `coin_flip.py` |
-| 2026-08-17 | 贝叶斯推断模拟 | `bayes_simulation.py` |
-| 2026-09-13 | 阶段 0 定级，路线图重写 | 本文件 |
+| 2026-08-13 | 首个 Python 练习：列表、循环、口味距离 | `01-python-basics/drink_similarity.py` |
+| 2026-08-15 | 重敲 drink_similarity，脱离参考验证理解 | `01-python-basics/drink_similarity.py`（二次 commit） |
+| 2026-08-16 | 欧几里得距离函数、字典遍历推荐；二维列表与列表推导式 | `01-python-basics/distance.py`、`recommendation.py`、`image_filter.py` |
+| 2026-08-17 | 奶茶推荐系统 v1.0：交互输入 + 距离排序 | `01-python-basics/recommend_system.py` |
+| 2026-08-18 | 抛硬币验证大数定律；贝叶斯推断模拟 | `01-python-basics/coin_flip.py`、`bayes_simulation.py` |
+| 2026-09-13 | 阶段 0 定级；路线图重写 | `Stage_0/README.md` |
+| 2026-09-14 | AI 辅助手写四步法建立；学习记录类 v1 | `02-python-oop/study_log.py` |
+| 2026-09-14 | 清理根 README HTML 实体 | `README.md` |
 
 ---
 
@@ -86,4 +88,4 @@
 
 ---
 
-*最后更新：2026-09-13*
+*最后更新：2026-09-14*
